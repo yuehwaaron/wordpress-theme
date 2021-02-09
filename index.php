@@ -36,7 +36,8 @@
       <section class="post-area">
         <div class="wrapper">
           <div class="row">
-          <div class="col-8-lg col-12-md">
+            <!-- <div class="col-8-lg col-12-md"> -->
+            <div class="col-12-lg col-12-md">
               <div class="grid">
                 <div class="article">
                   <article class="blog-post">
@@ -428,7 +429,7 @@
               </div>
             </div>
 
-            <div class="col-4-lg col-12-md">
+            <!-- <div class="col-4-lg col-12-md">
               <aside class="sidebar">
                 <section class="latest-post">
                   <a href="#" class="text-md text-dark">Latest Posts</a>
@@ -511,11 +512,7 @@
                   <div class="search">
                     <h3 class="text-md text dark">Search</h3>
                     <form action="" class="form-group">
-                      <input
-                        type="search"
-                        class="input-control mr-sm-2"
-                        placeholder="Search"
-                      />
+                      <input type="search" class="input-control mr-sm-2" placeholder="Search" />
                       <button class="btn btn-submit" type="submit">
                         <i class="fas fa-search"></i>
                       </button>
@@ -535,7 +532,7 @@
                   </div>
                 </section>
               </aside>
-            </div>w
+            </div> -->
 
           </div>
         </div>
